@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="11.5.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>180</x>
+      <y>90</y>
+      <w>470</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>Module Moral
+--
+- diminue progressivement la valeur de morale.
+- augmente la valeur de morale lorsqu'une tâche est accomplie
+  en fonction de cette dernière
+- diminue la valeur de morale lorsqu'une tâche est abandonnée
+  en fonction de cette dernière</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
