@@ -6,16 +6,21 @@
     <coordinates>
       <x>180</x>
       <y>90</y>
-      <w>470</w>
-      <h>130</h>
+      <w>500</w>
+      <h>200</h>
     </coordinates>
     <panel_attributes>Module Moral
 --
-- diminue progressivement la valeur de morale.
-- augmente la valeur de morale lorsqu'une tâche est accomplie
+- diminue progressivement la valeur du moral.
+- augmente la valeur du moral lorsqu'une tâche est accomplie
   en fonction de cette dernière
-- diminue la valeur de morale lorsqu'une tâche est abandonnée
-  en fonction de cette dernière</panel_attributes>
+- augmente la valeur du moral lorque l'on a progressé
+  d'un point de vue mental/physique/matériel
+- diminue la valeur de moral lorsqu'une tâche est abandonnée
+  en fonction de cette dernière
+- diminue la valeur du moral lorque l'on a régressé
+  d'un point de vue mental/physique/matériel
+</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>
